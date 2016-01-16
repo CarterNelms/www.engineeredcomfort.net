@@ -1,0 +1,23 @@
+table.symptoms td{
+	background-color:#eeeeee;
+	min-width:30%;
+	padding:10px 5px 10px 5px;
+}
+
+table.symptoms input{
+	margin-right:5px;
+}
+
+td.buttons button{
+	width:200px;
+	height:75px;
+	margin:20% 20% 20% 0%;
+	background-color:#white;
+	border:3px solid #082983;
+	color:#082983;
+	font:bold 32px comic sans ms;
+}
+
+td.buttons{width:30%;}
+
+div#diagnostics-header p{text-indent:10%;}

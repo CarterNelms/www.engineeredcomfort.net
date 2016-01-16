@@ -1,0 +1,8 @@
+table.info_display{
+	background-color:#148f36;
+	font-weight:bold;
+}
+table.info_display td{
+	background-color:white;
+	padding:5px;
+}
